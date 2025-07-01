@@ -1,0 +1,12 @@
+{
+  "title": "Auto Redirect Demo",
+  "description": "Instant redirect scenario",
+  "difficulty": "Beginner",
+  "time": "1 minute",
+  "details": {
+    "introPath": "intro.md"
+  },
+  "environment": {
+    "showdashboard": false
+  }
+}
